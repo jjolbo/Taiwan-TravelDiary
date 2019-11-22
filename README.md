@@ -5,7 +5,7 @@
 이정하
 
 1. Main page
-
+<img src="./Prev_img/01_-.jpg" width=30%>
 2. Day1 page
 
 3. Day2 page
