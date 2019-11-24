@@ -5,16 +5,16 @@
 이정하
 
 *1. Main page*
-<img src="./Prev_img/01_-.jpg">
+<img src="./After_img/스크린샷, 2019-11-25 00-30-19.png">
 
 *2. Day1 page*
-<img src="./Prev_img/02_-day1.jpg">
+<img src="./After_img/스크린샷, 2019-11-25 00-33-05.png">
 
 *3. Day2 page*
-<img src="./Prev_img/03_-day2.jpg">
+<img src="./After_img/스크린샷, 2019-11-25 00-33-14.png">
 
 *4. Create page*
-<img src="./Prev_img/04_-create.jpg">
+<img src="./After_img/스크린샷, 2019-11-25 00-33-14.png">
 
 *5. Update page*
-<img src="./Prev_img/05_-update.jpg">
+<img src="./After_img/스크린샷, 2019-11-25 00-33-29.png">
