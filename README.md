@@ -11,7 +11,7 @@
 <img src="./After_img/스크린샷, 2019-11-25 00-33-05.png">
 
 *3. Day2 page*
-<img src="./After_img/스크린샷, 2019-11-25 00-33-14.png">
+<img src="./After_img/스크린샷, 2019-11-25 00-41-46.png">
 
 *4. Create page*
 <img src="./After_img/스크린샷, 2019-11-25 00-33-14.png">
