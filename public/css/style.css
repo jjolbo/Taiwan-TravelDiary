@@ -1,0 +1,29 @@
+html, body {
+    background-color:#FFA500 !important;
+    color: black !important;
+    text-decoration: none !important;
+    
+    height: 80%;
+    margin: 0;
+    padding: 0;
+}
+a {
+    color: black !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: black !important;
+    background: cadetblue;
+    text-decoration: none !important;
+}
+/* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+#map {
+    top: 20%;
+    height: 80%;
+    width: 30%;
+    left: 50%;
+    margin-right:30%;
+}
+/* Optional: Makes the sample page fill the window. */
