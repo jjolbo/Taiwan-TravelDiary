@@ -1,1 +1,8 @@
 hello source tree
+
+- git 명령어 요약
+1. clone
+2. add
+3. commit
+4. pull
+5. push
